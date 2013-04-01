@@ -1,10 +1,11 @@
 {
-  "name": "zmq",
+  "name": "monexn",
   "version": "0.0.1",
   "description": "",
   "main": "index",
   "repository": {
-
+    "type": "git",
+    "url": "https://github.com/bakreb/monexn"
   },
   "devDependencies": {
 
@@ -25,9 +26,9 @@
       "email": "db@exn.it"
     }
   ],
-  "gypfile": true,
+  "gypfile": false,
   "readme": "",
-  "readmeFilename": "README.md",
+  "readmeFilename": "",
   "_id": "",
   "_from": ""
 }
