@@ -1,0 +1,33 @@
+{
+  "name": "zmq",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index",
+  "repository": {
+
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">=0.7.9"
+  },
+  "scripts": {
+
+  },
+  "author": {
+    "name": "David Bacconi",
+    "email": "db@exn.it"
+  },
+  "contributors": [
+    {
+      "name": "David Bacconi",
+      "email": "db@exn.it"
+    }
+  ],
+  "gypfile": true,
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "",
+  "_from": ""
+}
